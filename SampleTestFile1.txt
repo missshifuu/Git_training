@@ -1,2 +1,14 @@
 This is sample file 1
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Change in main file, stash 2
+=======
+this is a stash lecture, change in File1
+>>>>>>> Stashed changes
+=======
+this is a stash lecture, change in File1
+>>>>>>> Stashed changes
+=======
+this is a stash lecture, change in File1
+>>>>>>> Stashed changes
